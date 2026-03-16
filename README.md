@@ -152,6 +152,19 @@ My focus areas include:
 
 
 
+### 📊 Key Insights from Customer Segment & Risk Behaviour
+
+- **Total Customers:** The dataset includes **2,414 customers**, showing a moderately sized customer base for loan analysis.
+
+- **Customer Financial Profile:** The **average loan value is 2.09M**, while the **average salary is 602K**, indicating customers typically take loans significantly higher than their yearly income.
+
+- **Risk Segmentation Trend:** Customers with **higher salaries (~995M)** tend to fall into the **high-risk loan category**, suggesting larger borrowing behavior among high earners.
+
+- **Loan Distribution by Employment:** Loan distribution across **Government, Self-Employed, Salaried, and Business** customers is **almost evenly split (~24–26%)**, indicating balanced lending across employment types.
+
+- **Branch Loan Contribution:** Branches such as **Mumbai Central, Chennai T Nagar, and Ahmedabad CG Road** contribute the **highest loan amounts**, making them key revenue-generating branches.
+
+- **NPA Observation:** The **Total NPA Amount (~1.69B)** is significantly high, highlighting a potential **credit risk concern that may impact overall profitability**.
 
 
 # 🚀 How to Use This Project
