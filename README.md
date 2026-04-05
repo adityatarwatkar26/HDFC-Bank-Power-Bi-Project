@@ -150,6 +150,7 @@ My focus areas include:
 
 - **Highest Risk Loan Segment:** **Education loans at Mumbai Central show the highest individual NPA amount (~87.5M)**, indicating that this segment may require **stricter credit assessment or recovery strategies**.
 
+<img width="1327" height="744" alt="Screenshot 2026-03-16 151219" src="https://github.com/user-attachments/assets/e9f02bf6-4815-4f46-b88a-cdd806af43c4" />
 
 
 ### 📊 Key Insights from Customer Segment & Risk Behaviour
