@@ -153,7 +153,7 @@ My focus areas include:
 <img width="1327" height="744" alt="Screenshot 2026-03-16 151219" src="https://github.com/user-attachments/assets/e9f02bf6-4815-4f46-b88a-cdd806af43c4" />
 
 
-### 📊 Key Insights from Customer Segment & Risk Behaviour
+## 📊 Key Insights from Customer Segment & Risk Behaviour
 
 - **Total Customers:** The dataset includes **2,414 customers**, showing a moderately sized customer base for loan analysis.
 
@@ -169,7 +169,7 @@ My focus areas include:
 
 <img width="1260" height="700" alt="Screenshot 2026-03-13 152624" src="https://github.com/user-attachments/assets/e23eb71d-6d7a-4d3f-a183-78309cee84bc" />
 
-### 📊 Key Insights from Branch Wise Loan Distribution
+## 📊 Key Insights from Branch Wise Loan Distribution
 
 - **Delhi region shows the highest loan concentration**, indicating it is the top-performing branch in terms of loan distribution.
 
