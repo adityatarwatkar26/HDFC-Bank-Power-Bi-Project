@@ -167,6 +167,21 @@ My focus areas include:
 
 - **NPA Observation:** The **Total NPA Amount (~1.69B)** is significantly high, highlighting a potential **credit risk concern that may impact overall profitability**.
 
+<img width="1260" height="700" alt="Screenshot 2026-03-13 152624" src="https://github.com/user-attachments/assets/e23eb71d-6d7a-4d3f-a183-78309cee84bc" />
+
+### 📊 Key Insights from Branch Wise Loan Distribution
+
+- **Delhi region shows the highest loan concentration**, indicating it is the top-performing branch in terms of loan distribution.
+
+- **Western India (Mumbai, Ahmedabad) has strong loan activity**, suggesting high financial engagement and business demand in these regions.
+
+- **Southern cities like Bangalore and Chennai also contribute significantly**, reflecting growing credit demand in IT and urban sectors.
+
+- **Loan distribution is concentrated in metro and tier-1 cities**, with relatively low presence in rural and eastern regions.
+
+- **Northern and central regions show moderate activity**, indicating potential growth opportunities for expanding loan services.
+
+- **Overall pattern suggests urban-centric lending strategy**, highlighting dependency on major economic hubs rather than balanced geographic distribution.
 
 # 🚀 How to Use This Project
 
